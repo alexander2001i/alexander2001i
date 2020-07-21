@@ -11,5 +11,5 @@ I'm a currently working as React Native developer at day and .Net Core enthusias
 
 - 🔭 I’m currently working at [LimeChain](http://limechain.tech/)
 - 💬 Ask me about anything on your mine
-- 📫 How to reach me: [alexander2001ivanov@gmail.com](mailto: alexander2001ivanov@gmail.com)
+- 📫 How to reach me: [alexander2001ivanov@gmail.com](mailto:alexander2001ivanov@gmail.com)
 - ⚡ Fun fact: I am apple fanboy 🍏
