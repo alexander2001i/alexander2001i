@@ -9,6 +9,5 @@
 
 I'm a currently working as React Native developer at day and .Net Core enthusiast at night. I also love building eye-candy user interfaces with React backed by GraphQL APIs.
 
-- 🔭 I’m currently working at [LimeChain](http://limechain.tech/)
 - 📫 How to reach me: [alexander2001ivanov@gmail.com](mailto:alexander2001ivanov@gmail.com?subject=Hello)
 
